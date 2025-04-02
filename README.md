@@ -51,7 +51,7 @@
 ---
 | 프로젝트명 | 주최 | 수상여부 | 연도 |
 |------------|------|----------|------|
-| [TEAMING]([https://github.com/yourname/your-project1](https://github.com/UmcTeaming/BackEnd)) | UMC | 데모데이 2등 수상 | 2023.07~2023.08 |
+| [TEAMING](https://github.com/UmcTeaming/BackEnd) | UMC | 데모데이 2등 수상 | 2023.07~2023.08 |
 | [STUDYFLEX](https://github.com/StudyFlexUMC5th/StudyFlex-BE) | UMC | - | 2024.01~2024.02 |
 
----
+
