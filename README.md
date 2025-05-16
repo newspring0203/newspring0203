@@ -43,7 +43,7 @@
 
 📖 SQLD 자격증 취득 (한국데이터산업진흥원)
 
-🧑‍💼 2022 ~ 2024 학과 사무실 조교로 3년간 예산 관리 업무 경험
+🧑‍💼 2022 ~ 2024 학과 사무실 조교 업무 경험
 
 📚 Graduation Thesis: *Image-text multimodal learning using annotation by-products* (2024.11)
 
