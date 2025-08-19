@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 👩🏻‍💻 Profile
-🏫 Hankuk University of Foreign Studies (2021.03 ~ 2025.08(예정))
+🏫 Hankuk University of Foreign Studies (2021.03 ~ 2026.02(예정))
 
 
 
