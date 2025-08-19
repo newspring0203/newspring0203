@@ -32,6 +32,7 @@
 💻 WOORIFISA-SERVICE-DEV-4th (2024.12 ~ 2025.06)
 
 💻 WOORIFISA OneQOrder 서비스 개발 (2025.04 ~ 2025.06)
+
 🏆 개발 연합 동아리 UMC 4th 데모데이 2등 수상 (2023.08)
 
 👨‍👩‍👧‍👦 개발 연합 동아리 UMC 4th, 5th : Server(Spring Boot) (2023.03 ~ 2024.02)
