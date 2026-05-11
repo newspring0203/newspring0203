@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 👩🏻‍💻 Profile
-🏫 Hankuk University of Foreign Studies (2021.03 ~ 2026.08))
+🏫 University (2021.03 ~ 2026.08))
 
 
 
