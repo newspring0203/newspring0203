@@ -6,6 +6,7 @@ Java·Spring 기반 서비스 개발과 Python 기반 데이터 분석을 경험
 
 ### 👩🏻‍💻 Profile
 
+Hankuk University of Foreign Studies(2021.03 ~ 2026.08)
 
 ### 🛠️ Tech Skills
 
